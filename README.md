@@ -46,7 +46,7 @@ Welcome to **SHOPSEE**, your go-to destination for online shopping! This React-b
 ## Hosted Url- 
 
    ```
-   https://shop-see.vercel.app/
+   https://theshopsee.vercel.app/
    ```
 
 
